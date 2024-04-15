@@ -16,12 +16,12 @@
   "dependencies": {
     "@babel/runtime": "^7.21.5",
     "babel-jest": "^29.5.0",
-    "pretty-format": "^29.5.0"
+    "pretty-format": "^29.5.0",
+    "@tarojs/runtime": "^3.6.0",
+    "@tarojs/taro": "^3.6.0",
+    "@tarojs/router": "^3.6.0"
   },
   "devDependencies": {
-    "@tarojs/runtime": "^3.6.0",
-    "@tarojs/router": "^3.6.0",
-    "@tarojs/taro": "^3.6.0",
     "@tarojs/taro-h5": "^3.6.0",
     "@babel/core": "^7.8.0"
   }
